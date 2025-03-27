@@ -1,4 +1,4 @@
-> eachcart Possibilities License
+> eachcart Possibilities License (ePL)
 
 # RU
 Дата: 26.03.25 
